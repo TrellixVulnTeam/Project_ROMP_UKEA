@@ -1,0 +1,12 @@
+.navbar-default {
+  display: block;
+  text-align: end;
+  padding: 1.5rem;
+  padding-right: 6rem;
+  height:  fit-content;
+  background-color: hsl(0, 62%, 47%);
+  font:'Times New Roman', serif;
+  color: rgb(226, 232, 233);
+  font-weight: bolder;
+  font-size: x-large;
+}
