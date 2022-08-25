@@ -7,7 +7,7 @@ spring:
         enabled: true
       server:
         git:
-          uri: https://github.com/akhilaXD/Project.git
+          uri: https://github.com/knspavan/Project_ROMP.git
           default-label: main
           cloneOnStart: true
 
